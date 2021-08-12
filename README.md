@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I am full stack developer Currently working Education domain project
+- ⚡ Skills DevOps / CICD , Angular , Ionic , Java Spring Boot, Python scripting
+- 📫 you can reach out to me on roshan.d@barquecontech.com 
