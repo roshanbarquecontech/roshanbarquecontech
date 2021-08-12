@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋  , I am Roshan Deshmukh
+
+[![Linkedin Badge](https://www.linkedin.com/in/roshan-deshmukh-300b1285/)
+[![Stackoverflow Badge](https://stackoverflow.com/users/2942926/roshan-deshmukh)]
 
 <!--
 **roshanbarquecontech/roshanbarquecontech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
