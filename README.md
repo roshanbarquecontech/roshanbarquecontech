@@ -1,6 +1,6 @@
 ### Hi there 👋  , I am Roshan Deshmukh
 # Roshan Deshmukh
-[![Linkedin Badge](https://img.shields.io/badge/-gouravmukhija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-deshmukh-300b1285/)](https://www.linkedin.com/in/gouravmukhija/)
+[![Linkedin Badge](https://img.shields.io/badge/-roshandeshmukh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-deshmukh-300b1285/)](https://www.linkedin.com/in/gouravmukhija/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/2942926/roshan-deshmukh)](https://stackoverflow.com/users/2942926/roshan-deshmukh)
 
 
